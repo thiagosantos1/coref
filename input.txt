@@ -1,0 +1,8 @@
+{
+  "clusters": [],
+  "doc_key": "nw",
+  "sentences": [["[CLS]", "subword1", "##subword1", ".", "[SEP]"]],
+  "speakers": [["[SPL]", "-", "-", "-", "[SPL]"]],
+  "sentence_map": [0, 0, 0, 0, 0],
+  "subtoken_map": [0, 0, 0, 1, 2]
+}
